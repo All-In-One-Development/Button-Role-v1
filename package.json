@@ -1,0 +1,26 @@
+{
+  "name": "brih",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node": "^16.14.2"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.8.0",
+    "canvacord": "^5.2.3",
+    "discord-canvas": "^1.4.1",
+    "discord-rock-paper-scissor": "^1.1.1",
+    "discord.js": "^13.6.0",
+    "mongoose": "^6.2.9",
+    "ms-prettify": "^1.3.1",
+    "pokecord": "^1.0.1"
+  }
+}
